@@ -73,11 +73,12 @@
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Form" id="98b07358-4481-4d52-abbc-2e53692f3f90.0" configVersion="bb6bd8df60bcf848b6c8136ff392234800000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Form.ФормаПараметров.Help" id="98b07358-4481-4d52-abbc-2e53692f3f90.1" configVersion="47eebb8881721547aa4e673687b08b6d00000000"/>
 		<Metadata name="DataProcessor.КонсольЗапросов.Help" id="18ab4d77-7765-4923-bcee-6baf8f8891b1.1" configVersion="83d53970c5df4842a866513f46fb699a00000000"/>
-		<Metadata name="Document.ИзменениеПриоритетаСкладов" id="e9d31574-a8f7-42e1-a554-74b3515df0c9" configVersion="93d17be450325b49b0350b1e07754fe600000000">
+		<Metadata name="Document.ИзменениеПриоритетаСкладов" id="e9d31574-a8f7-42e1-a554-74b3515df0c9" configVersion="da67d49ef2f8a54e9e03f29e6a995eb900000000">
 			<Metadata name="Document.ИзменениеПриоритетаСкладов.TabularSection.Список.Attribute.Приоритет" id="25ae669b-3370-43c6-90b8-aedeb2b9d1c0"/>
 			<Metadata name="Document.ИзменениеПриоритетаСкладов.TabularSection.Список.Attribute.Склад" id="3b57066d-2048-43cc-b91c-11e0a989bcec"/>
 			<Metadata name="Document.ИзменениеПриоритетаСкладов.TabularSection.Список" id="74ac3b58-859e-461e-8e76-f1e4a9da2b31"/>
 		</Metadata>
+		<Metadata name="Document.ИзменениеПриоритетаСкладов.ObjectModule" id="e9d31574-a8f7-42e1-a554-74b3515df0c9.0" configVersion="c43eb3d5a3514445aa426c6c6990d9aa00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты" id="d40400eb-e10b-4a50-bfe4-6a226261ac28" configVersion="adfcd092d5537d42b0e8ddf8bee922db00000000">
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.ОсновныеНачисления" id="156dc1c0-c492-47f7-af6b-398795fb7c83"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.ОсновныеНачисления.Attribute.Размер" id="17452e63-2ff1-427a-8f58-2c1003d769b4"/>
