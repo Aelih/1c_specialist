@@ -17,7 +17,11 @@
 				<xr:Ref>CommonPicture.ОперативныйУчет</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
-			<Content/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ИзменениеПриоритетаСкладов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ПриоритетСкладов</xr:Item>
+			</Content>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>
