@@ -228,6 +228,7 @@
 			<CommonPicture>Сервис</CommonPicture>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
+			<CommandGroup>ПланыСчетов</CommandGroup>
 			<CommandGroup>РегистрыСведений</CommandGroup>
 			<CommandGroup>РегистрыНакопления</CommandGroup>
 			<CommandGroup>РегистрыБухгалтерии</CommandGroup>
@@ -257,6 +258,7 @@
 			<ChartOfCharacteristicTypes>СвойстваОбъектов</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Управленческий</ChartOfAccounts>
+			<AccountingRegister>Управленческий</AccountingRegister>
 			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
 			<ChartOfCalculationTypes>ДополнительныеНачисления</ChartOfCalculationTypes>
 			<ChartOfCalculationTypes>Удержания</ChartOfCalculationTypes>

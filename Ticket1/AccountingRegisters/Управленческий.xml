@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<AccountingRegister uuid="7fcc100e-e540-462e-b0d5-c2afce8aed11">
+		<InternalInfo>
+			<xr:GeneratedType name="AccountingRegisterRecord.Управленческий" category="Record">
+				<xr:TypeId>a034b4dc-3fd5-44ff-b1cf-346017f11ff8</xr:TypeId>
+				<xr:ValueId>c58da25a-5872-4d7c-a956-bf5065be85d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterExtDimensions.Управленческий" category="ExtDimensions">
+				<xr:TypeId>cd18ad0f-8f16-4ddb-87b9-aa59ec40a7f2</xr:TypeId>
+				<xr:ValueId>27753d68-99f2-4db1-aff3-c632c77f89c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterRecordSet.Управленческий" category="RecordSet">
+				<xr:TypeId>5387143f-32b0-4da4-b4ec-d93e18b2e519</xr:TypeId>
+				<xr:ValueId>c8768685-7882-43d5-83b3-b6c81fb0859e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterRecordKey.Управленческий" category="RecordKey">
+				<xr:TypeId>d8271edd-e413-4e28-9d27-35d09d5d8efe</xr:TypeId>
+				<xr:ValueId>0c65029a-0b53-4867-b220-d3d5f582f8fc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterSelection.Управленческий" category="Selection">
+				<xr:TypeId>1c50635b-5d41-4f2e-9c6b-458522ce5c0d</xr:TypeId>
+				<xr:ValueId>aac378dc-fe25-4e50-b055-2c16eacc4049</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterList.Управленческий" category="List">
+				<xr:TypeId>606aa760-79e2-41cc-af49-bc6422576851</xr:TypeId>
+				<xr:ValueId>1cd91a53-86a5-4e79-9261-282bb3c44fb2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccountingRegisterManager.Управленческий" category="Manager">
+				<xr:TypeId>6970c9eb-32d2-4bc7-b774-45e171bc3e08</xr:TypeId>
+				<xr:ValueId>0536e188-59a1-4351-a54b-cdca0ac8b1f7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Управленческий</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Управленческий</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ChartOfAccounts>ChartOfAccounts.Управленческий</ChartOfAccounts>
+			<Correspondence>true</Correspondence>
+			<PeriodAdjustmentLength>0</PeriodAdjustmentLength>
+			<DefaultListForm/>
+			<AuxiliaryListForm/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<EnableTotalsSplitting>true</EnableTotalsSplitting>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Dimension uuid="1b72648e-a065-4eb0-a7ea-67cd6a8af4e0">
+				<Properties>
+					<Name>Номенклатура</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Номенклатура</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Balance>true</Balance>
+					<AccountingFlag/>
+					<DenyIncompleteValues>true</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="24087350-1f45-4159-b7e3-5ca6fbf669a6">
+				<Properties>
+					<Name>СрокГодности</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Срок годности</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:dateTime</v8:Type>
+						<v8:DateQualifiers>
+							<v8:DateFractions>Date</v8:DateFractions>
+						</v8:DateQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Balance>true</Balance>
+					<AccountingFlag/>
+					<DenyIncompleteValues>true</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Dimension>
+			<Resource uuid="62c3f032-6284-48a4-8bf1-7eff7f35ff48">
+				<Properties>
+					<Name>СуммаРуб</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сумма руб</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>12</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Balance>true</Balance>
+					<AccountingFlag/>
+					<ExtDimensionAccountingFlag/>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Resource>
+			<Resource uuid="e74532d1-bcde-41ba-8983-1da385ebdb34">
+				<Properties>
+					<Name>Количество</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Количество</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>10</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Balance>false</Balance>
+					<AccountingFlag>ChartOfAccounts.Управленческий.AccountingFlag.Количественный</AccountingFlag>
+					<ExtDimensionAccountingFlag/>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Resource>
+		</ChildObjects>
+	</AccountingRegister>
+</MetaDataObject>
