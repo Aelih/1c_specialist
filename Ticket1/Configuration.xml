@@ -228,6 +228,7 @@
 			<CommonPicture>Сервис</CommonPicture>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
+			<CommandGroup>ПланыВидовХарактеристик</CommandGroup>
 			<CommandGroup>ПланыСчетов</CommandGroup>
 			<CommandGroup>РегистрыСведений</CommandGroup>
 			<CommandGroup>РегистрыНакопления</CommandGroup>
@@ -243,6 +244,7 @@
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Document>НачислениеЗарплаты</Document>
+			<Document>Операция</Document>
 			<Enum>УчетнаяПолитика</Enum>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>ОстаткиТоваров</Report>

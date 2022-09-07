@@ -26,6 +26,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КурсыВалют</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ChartOfAccounts.Управленческий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccountingRegister.Управленческий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ВидыСубконто</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Операция</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

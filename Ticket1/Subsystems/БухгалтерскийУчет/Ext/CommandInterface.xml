@@ -36,6 +36,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="ChartOfCharacteristicTypes.ВидыСубконто.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="AccountingRegister.Управленческий.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -71,6 +76,10 @@
 			<CommandGroup>CommandGroup.ПланыСчетов</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="ChartOfCharacteristicTypes.ВидыСубконто.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ПланыВидовХарактеристик</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="AccountingRegister.Управленческий.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.РегистрыБухгалтерии</CommandGroup>
 			<Placement>Auto</Placement>
@@ -98,6 +107,9 @@
 		<Command name="ChartOfAccounts.Управленческий.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.ПланыСчетов</CommandGroup>
 		</Command>
+		<Command name="ChartOfCharacteristicTypes.ВидыСубконто.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ПланыВидовХарактеристик</CommandGroup>
+		</Command>
 		<Command name="AccountingRegister.Управленческий.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.РегистрыБухгалтерии</CommandGroup>
 		</Command>
@@ -107,6 +119,7 @@
 		<Group>CommandGroup.Документы</Group>
 		<Group>CommandGroup.РегистрыСведений</Group>
 		<Group>CommandGroup.ПланыСчетов</Group>
+		<Group>CommandGroup.ПланыВидовХарактеристик</Group>
 		<Group>CommandGroup.РегистрыБухгалтерии</Group>
 	</GroupsOrder>
 </CommandInterface>
