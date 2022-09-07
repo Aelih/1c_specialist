@@ -100,16 +100,17 @@
 		<Metadata name="Document.Операция" id="2e082ec3-3253-4064-a96f-72c378020c3e" configVersion="33c489e9c736d44a8dfd23480ddb892a00000000"/>
 		<Metadata name="Document.Операция.Form.ФормаДокумента" id="3cf751c0-eecb-42f8-b624-ad39da29e436" configVersion="04f6a7a1dc6d4c489deb3b39e36b860b00000000"/>
 		<Metadata name="Document.Операция.Form.ФормаДокумента.Form" id="3cf751c0-eecb-42f8-b624-ad39da29e436.0" configVersion="28288a2220605644bfc973c98c8a2ebe00000000"/>
-		<Metadata name="Document.ПриходнаяНакладная" id="3a481469-d431-4486-ab67-5942019bba64" configVersion="ed070a76f953464ea580d5930087c0a100000000">
+		<Metadata name="Document.ПриходнаяНакладная" id="3a481469-d431-4486-ab67-5942019bba64" configVersion="1ef2f03851406a4db9fda2712706add000000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="17f1d679-ff18-427e-bb12-04efe1cf657f"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="5d371be8-ad53-40a7-a072-8bb5cbfc9494"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="6bb78eaf-1b2b-4161-b0e0-2ed4c280552c"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="76b1d16b-02c3-47f3-810d-9f4d99a540be"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="8cd9e996-dc54-4d19-af88-fa0b219b534b"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="8d229538-0ade-4d4a-9e5e-db24cbdee95b"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.СрокГодности" id="a1859d20-7cdc-4c38-a576-4d4c3948bd9d"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.СуммаПоДокументу" id="e5346aa8-c4b4-4b82-b4b0-f9ba3cd78b69"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="5d5e759d4a36ca448d8e9788403f144d00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="dcdb43fbbeffd64ba6bb3e04e6c1116900000000"/>
 		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="6571f5b6177e8f42a2d690ac265e77f100000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="035633fb-4c65-453e-880a-ed2aa75c76b2"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="0b8b4b3d-de5d-4b96-b29c-558b83a0e140"/>
@@ -153,8 +154,8 @@
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="a982f0b6-28c8-40bd-aade-9a0c1d5f5a7b" configVersion="5b68f85b1ad8784b98bbcf415d991b4f00000000"/>
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="a982f0b6-28c8-40bd-aade-9a0c1d5f5a7b.0" configVersion="4530789c0215954c847db4204e034f3a00000000"/>
 		<Metadata name="Subsystem.БизнесПроцессы" id="a52f76ef-df31-4bd7-b2b5-14c24d84a54b" configVersion="4dfc4daa8add7e42ae722e84ac8f6f1400000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет" id="5d630336-9376-4ddc-92bf-61f7068e99e8" configVersion="3b3ee5692d1b394d8e8f9af7f34efbba00000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="5d630336-9376-4ddc-92bf-61f7068e99e8.1" configVersion="c96cc2d76fb6014a93b99899df47043b00000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет" id="5d630336-9376-4ddc-92bf-61f7068e99e8" configVersion="e06aab0bcabed542b7a420b93d7959d800000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="5d630336-9376-4ddc-92bf-61f7068e99e8.1" configVersion="b5c75effae4c66408ff866b01c1021e300000000"/>
 		<Metadata name="Subsystem.ОперативныйУчет" id="df1a2c4f-8a83-4d5a-b36f-7c9ac535180d" configVersion="73a338685364ba4b892c6dbae05d5f4600000000"/>
 		<Metadata name="Subsystem.ОперативныйУчет.CommandInterface" id="df1a2c4f-8a83-4d5a-b36f-7c9ac535180d.1" configVersion="c4455a5cb92a15449b982f8b6d0c3bbb00000000"/>
 		<Metadata name="Subsystem.ПериодическиеРасчеты" id="34c82e66-a288-49d7-bb21-602c25a7384b" configVersion="d99a224d106f904fb55c7b924692102300000000"/>
