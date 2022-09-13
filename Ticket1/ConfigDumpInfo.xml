@@ -111,7 +111,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.СуммаПоДокументу" id="e5346aa8-c4b4-4b82-b4b0-f9ba3cd78b69"/>
 		</Metadata>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="dcdb43fbbeffd64ba6bb3e04e6c1116900000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="6571f5b6177e8f42a2d690ac265e77f100000000">
+		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="0d98323cfe1f1442b533e9c0ed1841bd00000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="035633fb-4c65-453e-880a-ed2aa75c76b2"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="0b8b4b3d-de5d-4b96-b29c-558b83a0e140"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры" id="23d0506a-8a80-4ea0-a3d3-19157128f289"/>
@@ -120,7 +120,7 @@
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="7538de18-042e-4a97-bb46-ab57294b8c90"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Цена" id="e7d887b0-0392-4326-a04d-a34a6a9714e7"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="a7a58bc719041049a0d3efa4d122259b00000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="f149c92610082e4380c60fbea16152d200000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="6b137d10-0962-4bbd-925f-e7086a8853a5" configVersion="379c9a5cd773384abcaf6d022185d69100000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="22895f73-ea55-4dc3-96eb-e9c2d44f8ef2"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="a124af41-372f-4714-9626-a4bb956fbfe5"/>
@@ -138,7 +138,7 @@
 			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="62cedb1e-be7f-49f3-befd-60848d58139e"/>
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="c1beb564-8b1f-49a5-9e80-8e9719c72025"/>
 		</Metadata>
-		<Metadata name="InformationRegister.РегистрАдресации" id="f78471a2-59c7-4e13-b8ef-237a008b0392" configVersion="b21b3e055b01104b9d20a442f27437ea00000000">
+		<Metadata name="InformationRegister.РегистрАдресации" id="f78471a2-59c7-4e13-b8ef-237a008b0392" configVersion="e5cfc23e646c6d41ba24e4eb74fddb8c00000000">
 			<Metadata name="InformationRegister.РегистрАдресации.Dimension.Исполнитель" id="ab0638d1-9955-49d1-a664-555e5299a878"/>
 		</Metadata>
 		<Metadata name="InformationRegister.СведенияОСотрудниках" id="3757b34e-da63-4cec-a7d9-9ae527a24c4d" configVersion="9652a258311f8242a766ca3418df70c600000000">
