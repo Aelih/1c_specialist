@@ -9,4 +9,16 @@
 		</Type>
 		<IsFolder>false</IsFolder>
 	</Item>
+	<Item id="5483959b-4305-4c70-adea-df04d7c9d8f5">
+		<Name>СрокГодности</Name>
+		<Code>000000002</Code>
+		<Description>Срок годности</Description>
+		<Type>
+			<v8:Type>xs:dateTime</v8:Type>
+			<v8:DateQualifiers>
+				<v8:DateFractions>Date</v8:DateFractions>
+			</v8:DateQualifiers>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
 </PredefinedData>

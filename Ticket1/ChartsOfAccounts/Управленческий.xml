@@ -44,7 +44,7 @@
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<BasedOn/>
 			<ExtDimensionTypes>ChartOfCharacteristicTypes.ВидыСубконто</ExtDimensionTypes>
-			<MaxExtDimensionCount>1</MaxExtDimensionCount>
+			<MaxExtDimensionCount>2</MaxExtDimensionCount>
 			<CodeMask>@@.@@</CodeMask>
 			<CodeLength>5</CodeLength>
 			<DescriptionLength>50</DescriptionLength>
@@ -514,6 +514,43 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</AccountingFlag>
+			<ExtDimensionAccountingFlag uuid="786d5eed-e0d7-49ad-a69d-4216ecf840f4">
+				<Properties>
+					<Name>Суммовой</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Суммовой</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</ExtDimensionAccountingFlag>
 		</ChildObjects>
 	</ChartOfAccounts>
 </MetaDataObject>

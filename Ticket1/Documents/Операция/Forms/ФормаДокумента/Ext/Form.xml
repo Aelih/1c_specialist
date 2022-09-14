@@ -64,7 +64,7 @@
 					<ExtendedTooltip name="ДвиженияУправленческийПериодРасширеннаяПодсказка" id="25"/>
 				</InputField>
 				<InputField name="ДвиженияУправленческийСрокГодности" id="26">
-					<DataPath>Объект.RegisterRecords.Управленческий.СрокГодности</DataPath>
+					<DataPath>1/-8/0:7fcc100e-e540-462e-b0d5-c2afce8aed11/0:24087350-1f45-4159-b7e3-5ca6fbf669a6</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ContextMenu name="ДвиженияУправленческийСрокГодностиКонтекстноеМеню" id="27"/>
 					<ExtendedTooltip name="ДвиженияУправленческийСрокГодностиРасширеннаяПодсказка" id="28"/>
@@ -81,35 +81,47 @@
 					<ContextMenu name="ДвиженияУправленческийСубконтоДт1КонтекстноеМеню" id="33"/>
 					<ExtendedTooltip name="ДвиженияУправленческийСубконтоДт1РасширеннаяПодсказка" id="34"/>
 				</InputField>
-				<InputField name="ДвиженияУправленческийКоличествоДт" id="35">
+				<InputField name="ДвиженияУправленческийСубконтоДт2" id="35">
+					<DataPath>Объект.RegisterRecords.Управленческий.ExtDimensionDr2</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ДвиженияУправленческийСубконтоДт2КонтекстноеМеню" id="36"/>
+					<ExtendedTooltip name="ДвиженияУправленческийСубконтоДт2РасширеннаяПодсказка" id="37"/>
+				</InputField>
+				<InputField name="ДвиженияУправленческийКоличествоДт" id="38">
 					<DataPath>Объект.RegisterRecords.Управленческий.КоличествоDr</DataPath>
 					<EditMode>EnterOnInput</EditMode>
-					<ContextMenu name="ДвиженияУправленческийКоличествоДтКонтекстноеМеню" id="36"/>
-					<ExtendedTooltip name="ДвиженияУправленческийКоличествоДтРасширеннаяПодсказка" id="37"/>
+					<ContextMenu name="ДвиженияУправленческийКоличествоДтКонтекстноеМеню" id="39"/>
+					<ExtendedTooltip name="ДвиженияУправленческийКоличествоДтРасширеннаяПодсказка" id="40"/>
 				</InputField>
-				<InputField name="ДвиженияУправленческийСчетКт" id="38">
+				<InputField name="ДвиженияУправленческийСчетКт" id="41">
 					<DataPath>Объект.RegisterRecords.Управленческий.AccountCr</DataPath>
 					<EditMode>EnterOnInput</EditMode>
-					<ContextMenu name="ДвиженияУправленческийСчетКтКонтекстноеМеню" id="39"/>
-					<ExtendedTooltip name="ДвиженияУправленческийСчетКтРасширеннаяПодсказка" id="40"/>
+					<ContextMenu name="ДвиженияУправленческийСчетКтКонтекстноеМеню" id="42"/>
+					<ExtendedTooltip name="ДвиженияУправленческийСчетКтРасширеннаяПодсказка" id="43"/>
 				</InputField>
-				<InputField name="ДвиженияУправленческийСубконтоКт1" id="41">
+				<InputField name="ДвиженияУправленческийСубконтоКт1" id="44">
 					<DataPath>Объект.RegisterRecords.Управленческий.ExtDimensionCr1</DataPath>
 					<EditMode>EnterOnInput</EditMode>
-					<ContextMenu name="ДвиженияУправленческийСубконтоКт1КонтекстноеМеню" id="42"/>
-					<ExtendedTooltip name="ДвиженияУправленческийСубконтоКт1РасширеннаяПодсказка" id="43"/>
+					<ContextMenu name="ДвиженияУправленческийСубконтоКт1КонтекстноеМеню" id="45"/>
+					<ExtendedTooltip name="ДвиженияУправленческийСубконтоКт1РасширеннаяПодсказка" id="46"/>
 				</InputField>
-				<InputField name="ДвиженияУправленческийКоличествоКт" id="44">
+				<InputField name="ДвиженияУправленческийСубконтоКт2" id="47">
+					<DataPath>Объект.RegisterRecords.Управленческий.ExtDimensionCr2</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ДвиженияУправленческийСубконтоКт2КонтекстноеМеню" id="48"/>
+					<ExtendedTooltip name="ДвиженияУправленческийСубконтоКт2РасширеннаяПодсказка" id="49"/>
+				</InputField>
+				<InputField name="ДвиженияУправленческийКоличествоКт" id="50">
 					<DataPath>Объект.RegisterRecords.Управленческий.КоличествоCr</DataPath>
 					<EditMode>EnterOnInput</EditMode>
-					<ContextMenu name="ДвиженияУправленческийКоличествоКтКонтекстноеМеню" id="45"/>
-					<ExtendedTooltip name="ДвиженияУправленческийКоличествоКтРасширеннаяПодсказка" id="46"/>
+					<ContextMenu name="ДвиженияУправленческийКоличествоКтКонтекстноеМеню" id="51"/>
+					<ExtendedTooltip name="ДвиженияУправленческийКоличествоКтРасширеннаяПодсказка" id="52"/>
 				</InputField>
-				<InputField name="ДвиженияУправленческийСуммаРуб" id="47">
+				<InputField name="ДвиженияУправленческийСуммаРуб" id="53">
 					<DataPath>Объект.RegisterRecords.Управленческий.СуммаРуб</DataPath>
 					<EditMode>EnterOnInput</EditMode>
-					<ContextMenu name="ДвиженияУправленческийСуммаРубКонтекстноеМеню" id="48"/>
-					<ExtendedTooltip name="ДвиженияУправленческийСуммаРубРасширеннаяПодсказка" id="49"/>
+					<ContextMenu name="ДвиженияУправленческийСуммаРубКонтекстноеМеню" id="54"/>
+					<ExtendedTooltip name="ДвиженияУправленческийСуммаРубРасширеннаяПодсказка" id="55"/>
 				</InputField>
 			</ChildItems>
 		</Table>

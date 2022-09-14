@@ -37,7 +37,15 @@
 				<ExtDimensionTypes>
 					<ExtDimensionType name="ChartOfCharacteristicTypes.ВидыСубконто.Номенклатура">
 						<Turnover>false</Turnover>
-						<AccountingFlags/>
+						<AccountingFlags>
+							<Flag ref="ChartOfAccounts.Управленческий.ExtDimensionAccountingFlag.Суммовой">true</Flag>
+						</AccountingFlags>
+					</ExtDimensionType>
+					<ExtDimensionType name="ChartOfCharacteristicTypes.ВидыСубконто.СрокГодности">
+						<Turnover>false</Turnover>
+						<AccountingFlags>
+							<Flag ref="ChartOfAccounts.Управленческий.ExtDimensionAccountingFlag.Суммовой">false</Flag>
+						</AccountingFlags>
 					</ExtDimensionType>
 				</ExtDimensionTypes>
 			</Item>
