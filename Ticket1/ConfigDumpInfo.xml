@@ -61,7 +61,7 @@
 		<Metadata name="CommonPicture.Расчеты.Picture" id="e2b6e1fc-68c0-46ad-836a-eff575c657db.0" configVersion="f5fbf2e4f59add49ade0b6ce20b6ef9400000000"/>
 		<Metadata name="CommonPicture.Сервис" id="80c9a300-d705-420a-951e-7375284be4b2" configVersion="6f0d12e5efbedf439b7b1c2884f6344b00000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="80c9a300-d705-420a-951e-7375284be4b2.0" configVersion="f16fef8187054c408480f97cc27e95c000000000"/>
-		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="2198d38364b7214ba32366ce598f002a00000000"/>
+		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="08f2bce2c3abee43a6e8fa03d677d22000000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.ClientApplicationInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.b" configVersion="b104be76d36f504f8486797d8a3e2e6600000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.CommandInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.a" configVersion="41232fa349b6174da8c27b015aaa910600000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика" id="7cae0bec-65db-42b0-87ab-f27d91394d1b" configVersion="4dbb03d7a8d82547ad2dbac62758c37600000000"/>
@@ -153,8 +153,11 @@
 		<Metadata name="Report.ОстаткиТоваров" id="2a126c37-b32f-4a9f-9cac-4d064edf61e5" configVersion="eb8e396935389e44bd0c08fc5557672700000000"/>
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="a982f0b6-28c8-40bd-aade-9a0c1d5f5a7b" configVersion="5b68f85b1ad8784b98bbcf415d991b4f00000000"/>
 		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="a982f0b6-28c8-40bd-aade-9a0c1d5f5a7b.0" configVersion="4530789c0215954c847db4204e034f3a00000000"/>
+		<Metadata name="Report.ОстаткиТоваровБУ" id="c1f00e5b-f86d-41f1-a99b-fba98c278610" configVersion="5727908df3763c41bbdd41eca71369a900000000"/>
+		<Metadata name="Report.ОстаткиТоваровБУ.Template.ОсновнаяСхемаКомпоновкиДанных" id="2da4d86b-7a10-4ce3-ba05-6e5999f722e9" configVersion="c1d4d9be9a27bc488e453f7acdb179eb00000000"/>
+		<Metadata name="Report.ОстаткиТоваровБУ.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2da4d86b-7a10-4ce3-ba05-6e5999f722e9.0" configVersion="117d45a0e186e949b5a233b6e7a8312300000000"/>
 		<Metadata name="Subsystem.БизнесПроцессы" id="a52f76ef-df31-4bd7-b2b5-14c24d84a54b" configVersion="4dfc4daa8add7e42ae722e84ac8f6f1400000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет" id="5d630336-9376-4ddc-92bf-61f7068e99e8" configVersion="e06aab0bcabed542b7a420b93d7959d800000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет" id="5d630336-9376-4ddc-92bf-61f7068e99e8" configVersion="9885e2af2a7c0d44bfc8005f6a32f14f00000000"/>
 		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="5d630336-9376-4ddc-92bf-61f7068e99e8.1" configVersion="b5c75effae4c66408ff866b01c1021e300000000"/>
 		<Metadata name="Subsystem.ОперативныйУчет" id="df1a2c4f-8a83-4d5a-b36f-7c9ac535180d" configVersion="73a338685364ba4b892c6dbae05d5f4600000000"/>
 		<Metadata name="Subsystem.ОперативныйУчет.CommandInterface" id="df1a2c4f-8a83-4d5a-b36f-7c9ac535180d.1" configVersion="c4455a5cb92a15449b982f8b6d0c3bbb00000000"/>
