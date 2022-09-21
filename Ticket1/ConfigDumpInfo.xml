@@ -100,7 +100,7 @@
 		<Metadata name="Document.Операция" id="2e082ec3-3253-4064-a96f-72c378020c3e" configVersion="33c489e9c736d44a8dfd23480ddb892a00000000"/>
 		<Metadata name="Document.Операция.Form.ФормаДокумента" id="3cf751c0-eecb-42f8-b624-ad39da29e436" configVersion="c8e63e28c879ac45923092fa701ed2e900000000"/>
 		<Metadata name="Document.Операция.Form.ФормаДокумента.Form" id="3cf751c0-eecb-42f8-b624-ad39da29e436.0" configVersion="65b24e65a0009f4cab04a991029bed7100000000"/>
-		<Metadata name="Document.ПриходнаяНакладная" id="3a481469-d431-4486-ab67-5942019bba64" configVersion="b44ceddc80f7e840ae22614e2310b2ef00000000">
+		<Metadata name="Document.ПриходнаяНакладная" id="3a481469-d431-4486-ab67-5942019bba64" configVersion="3cb2137c04bc7d4fa50bea96ff55394400000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="17f1d679-ff18-427e-bb12-04efe1cf657f"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры" id="5d371be8-ad53-40a7-a072-8bb5cbfc9494"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="6bb78eaf-1b2b-4161-b0e0-2ed4c280552c"/>
@@ -110,7 +110,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.СрокГодности" id="a1859d20-7cdc-4c38-a576-4d4c3948bd9d"/>
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.СуммаПоДокументу" id="e5346aa8-c4b4-4b82-b4b0-f9ba3cd78b69"/>
 		</Metadata>
-		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="930e8dae3f7fe24a9d1b89957d6319f200000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="893828de4b324543be0f1f4ad0e35b7d00000000"/>
 		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="0d34ac1cba64de4f8131bb619cda766f00000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="035633fb-4c65-453e-880a-ed2aa75c76b2"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="0b8b4b3d-de5d-4b96-b29c-558b83a0e140"/>
